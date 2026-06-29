@@ -70,9 +70,9 @@ Sauce & Spoon is a small restaurant chain that wants to support annual growth an
 
 | Report | Description |
 |---|---|
-| [Indonesian Report - Secured PDF](docs/Project-Management_Ronaldo-Firmansyah_ID_secured.pdf) | Original Indonesian project management report in secured PDF format. |
+| [Indonesian Report - Secured PDF](docs/Project-Management_Ronaldo-Firmansyah_ID.pdf) | Original Indonesian project management report in secured PDF format. |
 | [English Portfolio Report - Markdown](docs/Project-Management_Ronaldo-Firmansyah_EN.md) | English version rewritten for GitHub portfolio review. |
-| [English Portfolio Report - Secured PDF](docs/Project-Management_Ronaldo-Firmansyah_EN_secured.pdf) | English secured PDF version for portfolio distribution. |
+| [English Portfolio Report - Secured PDF](docs/Project-Management_Ronaldo-Firmansyah_EN.pdf) | English secured PDF version for portfolio distribution. |
 | [Report Security Note](docs/report_security_note.md) | Notes about PDF security limitations and repository scope. |
 
 ---
