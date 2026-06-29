@@ -1,0 +1,16 @@
+# Editable source documents are intentionally excluded
+*.docx
+*.tmp
+*.bak
+~$*
+
+# Environment / local files
+.env
+*.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
