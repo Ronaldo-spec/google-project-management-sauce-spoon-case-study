@@ -4,9 +4,9 @@ This repository includes secured PDF versions of the Google Project Management c
 
 ## Files
 
-- `Project-Management_Ronaldo-Firmansyah_ID_secured.pdf` - original Indonesian report in secured PDF format.
+- `Project-Management_Ronaldo-Firmansyah_ID.pdf` - original Indonesian report in secured PDF format.
 - `Project-Management_Ronaldo-Firmansyah_EN.md` - English portfolio report in Markdown format for GitHub review.
-- `Project-Management_Ronaldo-Firmansyah_EN_secured.pdf` - English secured PDF version for portfolio distribution.
+- `Project-Management_Ronaldo-Firmansyah_EN.pdf` - English secured PDF version for portfolio distribution.
 
 ## PDF Security
 
